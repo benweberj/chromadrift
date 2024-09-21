@@ -1,0 +1,30 @@
+{
+  "name": "chroma-drift-theme",
+  "displayName": "Chroma Drift",
+  "description": "A dark, minimal, pastel VSCode UI and syntax theme",
+  "version": "0.0.1",
+  "publisher": "benoftheweb",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "galleryBanner": {
+    "color": "#9bd6ad",
+    "theme": "dark"
+  },
+  "icon": "chroma-icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "chromadrift",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chromadrift-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
