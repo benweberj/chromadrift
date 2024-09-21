@@ -15,6 +15,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benweberj/chromadrift"
+  },
   "contributes": {
     "themes": [
       {
