@@ -38,6 +38,7 @@
 
 		"widget.shadow": "#FFFFFF00",
 		"scrollbar.shadow": "#FFFFFF00",
+		"panel.dropBorder": "#FFFFFF00",
 
 		"window.activeBorder": "#5b9",
 
